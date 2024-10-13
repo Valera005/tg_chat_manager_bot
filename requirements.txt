@@ -1,0 +1,6 @@
+aiogram~=2.24
+aiohttp==3.8.1
+aioredis==2.0.0
+python-dotenv
+asyncpg~=0.25.0
+asyncio~=3.4.3
